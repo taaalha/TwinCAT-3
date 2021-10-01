@@ -8,3 +8,10 @@ When a pizza is not removed from the output conveyer, the cooked pizza cannot ge
 The status displays the current situation of the pizza making process.
 
 There can be a pizza inside the oven, and a pizza at the input tray. But if you try to put insert more pizza's, it won't happen. The input tray needs to be empty to receive a pizza.
+
+
+# Some screenshots
+![image](https://user-images.githubusercontent.com/87899535/135580071-e6d0463e-91bf-49fb-9958-436e235afd26.png)
+![image](https://user-images.githubusercontent.com/87899535/135580261-cdbd23ca-f160-4d20-b560-a96b8c2424a3.png)
+![image](https://user-images.githubusercontent.com/87899535/135580124-6d046c6b-5c06-4f2a-b220-33ae9997a6fc.png)
+![image](https://user-images.githubusercontent.com/87899535/135580164-7efb03a9-5a47-4de3-ab74-2b6b3811324e.png)
